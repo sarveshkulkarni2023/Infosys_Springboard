@@ -70,5 +70,3 @@ The entire pipeline is implemented in the provided Google Colaboratory notebook.
 
 ---
 ***
-
-**Action Item:** Create your public repository named `Infosys_Springboard`, implement the folder structure above, include the executed notebook, and paste the content above into your `README.md`. Finally, share the repository link via email.
