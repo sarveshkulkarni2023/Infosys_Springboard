@@ -46,7 +46,7 @@ The core task of **model-based analysis** often involves interpreting the simila
 
 ## 3. Observations and Analysis
 
-The visualizations (saved in the `results` folder) and parsed data lead to the following key observations:
+The visualizations (saved in the file itself) and parsed data lead to the following key observations:
 
 1.  **Effective Parsing:** The Python `ast` module accurately extracted the structural components (functions, classes, imports) from the diverse snippets, demonstrating a successful parsing step.
 2.  **Semantic Grouping (Clustering):**
